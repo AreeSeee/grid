@@ -3,7 +3,7 @@ body{
     font-family: cursive;
 }
 .zone {
-    cursor:pointer;
+    /*cursor:pointer;*/
     /* display:inline-block; */
     color:#FFF;
     font-size:2em;
@@ -49,6 +49,7 @@ li a{
     width: 100%;
 }
 .box{
+    cursor:pointer;
     padding: 130px;
     margin: 20px;
     background-color: gray;
